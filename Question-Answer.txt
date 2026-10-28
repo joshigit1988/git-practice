@@ -3,3 +3,33 @@ joshiomsai88@gmail.com
 Delhi@2028123
 joshigit1988
 https://docs.google.com/document/d/1tI-mHOAzjRwYtqKOJ5MC_XlkZdakKSrmPdvLGSOe9sQ/edit?tab=t.0
+
+
+
+1. git add .
+
+Files stage hoti hain.
+
+
+2. git commit -m "Add files"
+
+Local repository mein snapshot save hota hai.
+
+
+3. git remote add origin URL
+
+GitHub repository ka connection set hota hai.
+
+
+4. git push -u origin main
+
+Commits GitHub par upload hote hain.
+
+
+
+https://github.com/joshigit1988/git-practice
+
+
+first time new branch ko push karne ke liye
+-------------------------------------------------
+git push -u origin headerfix
