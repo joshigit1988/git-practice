@@ -2,7 +2,7 @@ const numbers = [10, 20, 30, 40,50];
 
 numbers.forEach((ele, ind) =>{
 
-console.log(ele, ind);
+    document.querySelector(".noteloop").innerHTML+="<div>"+ele+ind+"</div>";
 
 });
 
