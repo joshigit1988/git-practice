@@ -1,0 +1,22 @@
+1. git add .
+
+Files stage hoti hain.
+
+
+2. git commit -m "Add files"
+
+Local repository mein snapshot save hota hai.
+
+
+3. git remote add origin URL
+
+GitHub repository ka connection set hota hai.
+
+
+4. git push -u origin main
+
+Commits GitHub par upload hote hain.
+
+
+
+https://github.com/joshigit1988/git-practice
